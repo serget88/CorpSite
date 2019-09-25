@@ -47,7 +47,7 @@
                                             <a href="#">Cypress Creek</a>
                                         </li>
                                         <li>
-                                            <a href="#">Secret Mountain</a>
+                                            <a href="#">Secret Mountains</a>
                                         </li>
                                     </ul>
                                 </li>
