@@ -52,6 +52,9 @@
                                         <li>
                                             <a href="#">San Diego</a>
                                         </li>
+                                        <li>
+                                            <a href="#">Atlanta</a>
+                                        </li>
                                     </ul>
                                 </li>
                             </ul>
