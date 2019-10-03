@@ -55,9 +55,6 @@
                                         <li>
                                             <a href="#">Atlanta</a>
                                         </li>
-                                         <li>
-                                            <a href="#">New York</a>
-                                        </li>
                                     </ul>
                                 </li>
                             </ul>
