@@ -53,7 +53,7 @@
                                             <a href="#">San Diego</a>
                                         </li>
                                         <li>
-                                            <a href="#">Los Angelos</a>
+                                            <a href="#">Madrid</a>
                                         </li>
                                     </ul>
                                 </li>
