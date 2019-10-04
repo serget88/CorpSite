@@ -53,7 +53,7 @@
                                             <a href="#">San Diego</a>
                                         </li>
                                         <li>
-                                            <a href="#">Maryland</a>
+                                            <a href="#">Baltimore</a>
                                         </li>
                                     </ul>
                                 </li>
