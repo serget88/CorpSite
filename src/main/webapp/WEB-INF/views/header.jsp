@@ -53,7 +53,7 @@
                                             <a href="#">San Diego</a>
                                         </li>
                                         <li>
-                                            <a href="#">Georgia</a>
+                                            <a href="#">Atlanta</a>
                                         </li>
                                     </ul>
                                 </li>
