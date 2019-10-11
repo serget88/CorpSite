@@ -44,13 +44,16 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="#">San Diego</a>
+                                            <a href="#">Atlanta</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">London</a>
                                         </li>
                                         <li>
                                             <a href="#">Madrid</a>
                                         </li>
                                         <li>
-                                            <a href="#">Atlanta</a>
+                                            <a href="#">San Diego</a>
                                         </li>
                                     </ul>
                                 </li>
