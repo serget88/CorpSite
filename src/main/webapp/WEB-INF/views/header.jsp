@@ -44,16 +44,13 @@
                                     </a>
                                     <ul>
                                         <li>
-                                            <a href="#">Cypress Creek</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Secret Mountains</a>
-                                        </li>
-                                        <li>
                                             <a href="#">San Diego</a>
                                         </li>
                                         <li>
                                             <a href="#">Madrid</a>
+                                        </li>
+                                        <li>
+                                            <a href="#">Atlanta</a>
                                         </li>
                                     </ul>
                                 </li>
