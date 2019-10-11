@@ -47,9 +47,6 @@
                                             <a href="#">Atlanta</a>
                                         </li>
                                         <li>
-                                            <a href="#">London</a>
-                                        </li>
-                                        <li>
                                             <a href="#">Madrid</a>
                                         </li>
                                         <li>
