@@ -56,7 +56,7 @@
                                             <a href="#">Orlando</a>
                                         </li>
                                         <li>
-                                            <a href="#">Houston</a>
+                                            <a href="#">College Park</a>
                                         </li>
                                     </ul>
                                 </li>
