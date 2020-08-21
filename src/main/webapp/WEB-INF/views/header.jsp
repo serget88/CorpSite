@@ -58,9 +58,6 @@
                                         <li>
                                             <a href="#">Orlando</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Austin</a>
-                                        </li>
                                     </ul>
                                 </li>
                             </ul>
